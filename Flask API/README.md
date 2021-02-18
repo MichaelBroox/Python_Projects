@@ -1,0 +1,1 @@
+A flask api to collect names of students, their age, subject and email addresses.
